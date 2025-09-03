@@ -4,7 +4,7 @@ Showcasing the **badges** I’ve earned on *LeetCode* through coding challenges.
 They represent milestones in my journey to sharpen problem-solving and algorithmic thinking.  
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=WpsCqRN4gq&theme=light&border=border&animated=false" alt="LeetCode Badges"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=WpsCqRN4gq&theme=light&border=border&animated=true" alt="LeetCode Badges"/>
 </p>
 
 ---
