@@ -17,3 +17,5 @@ This tracker keeps me motivated to keep learning and improving.
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/WpsCqRN4gq?theme=tokyonight&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </p>
+
+<img width="1153" height="487" alt="image" src="https://github.com/user-attachments/assets/7e64a65a-53f9-48f4-8f6e-54696ccaccfc" />
